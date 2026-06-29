@@ -48,5 +48,19 @@ Texture Names:
 
 "Ana-Ninja-Grey"
 
+"Ana-Swimsuit"
+
+"JillValentine"
+
+"gothCol"
+
+"ExoSuit\_BaseColor"
+
+"BandageCol"
+
+"RBC\_BaseCol"
+
 "Neutrophil\_Col"
+
+
 
