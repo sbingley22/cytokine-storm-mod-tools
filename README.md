@@ -34,7 +34,9 @@ Uploading your mod to steam workshop:
 
 You need to place the mod files into the "WorkshopMod" folder in your game directory "Cytokine Storm\_Data/WorkshopMod/". Choose browse local files in your steam options.
 
-Now boot the game up, select Upload Mod from the main menu options, fill in the details and click upload.
+Now boot the game up, select Upload Mod from the main menu options, it should say Successfully Uploaded.
+
+If it says it failed, it should give you some reason. You may want to check your workshop page and delete any failed uploads. Leave a message in the Modding thread in the Community Hub Discussion area with your error.
 
 
 
@@ -61,6 +63,4 @@ Texture Names:
 "RBC\_BaseCol"
 
 "Neutrophil\_Col"
-
-
 
